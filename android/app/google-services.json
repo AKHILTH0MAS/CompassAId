@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "347211940631",
+    "project_id": "break-down-6788d",
+    "storage_bucket": "break-down-6788d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347211940631:android:2d1e93fa9e9887362aed52",
+        "android_client_info": {
+          "package_name": "com.example.break_down_assistance"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVXka7f5_8-so0Ju7O6-h11lTcqITYC94"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347211940631:android:46ea544196f841402aed52",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVXka7f5_8-so0Ju7O6-h11lTcqITYC94"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
